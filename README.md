@@ -5,7 +5,7 @@ The company has collected data on the orders placed, order revenue, and customer
 
 Insights and recommendations are provided on the following key areas:
 
-- **Revenue & Growth:** Evaluate historical sales trends with a focus on Revenue, Number of Orders, and Average Order Value
+- **Revenue & Growth:** Overview historical sales trends with a focus on Revenue, Number of Orders, and Average Order Value
 - **Monthly Sales Trends:** An analysis of monthly sales trends
 - **Product Performance:** Assess product sales and profit, focusing on year-over-year (YoY) growth
 - **Regional Sales:** Analysis of orders placed and popular products per region
@@ -18,7 +18,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of one table: sales_dataset with a total row count of 9,994 records. A description of each table is as follows:
+The companies main database structure as seen below consists of one table, sales_dataset, with a total row count of 9,994 records. A description of each table is as follows:
 
 <img src = "https://github.com/user-attachments/assets/aaf62d0a-86e2-429a-8f60-ea709ce8d764" width=200 />
 
@@ -29,7 +29,7 @@ The companies main database structure as seen below consists of one table: sales
 
 ### Overview of Findings
 
-Since 2020, Jumpstart has seen a steady increase in sales. Most key performance indicators have shown year-over-year increases. Revenue increased by 20.62% and Order Volume increased by 28.64%. On the other hand, Average Order Value (AOV) decreased by -6.24%. The following sections will provide further insights into the areas the company is excelling in and the areas that need further improvement. Below is the overview page from the interactive Tableau dashboard linked above.
+Since 2020, Jumpstart has seen a steady increase in sales. Most key performance indicators in 2023 have shown year-over-year increases. Revenue increased by 20.62% and Order Volume increased by 28.64%. On the other hand, Average Order Value (AOV) decreased by -6.24%. The following sections will provide further insights into the areas the company is excelling in and opportunities for growth. Below is the overview page from the interactive Tableau dashboard that is linked above.
 
 
 
@@ -39,11 +39,11 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 
 # Insights Deep Dive
-### Category 1:
+### Monthly Sales Trends:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Sales are typically above average in September, November, and December.** Sales hit an all-time peak November 2023 with 447 orders totaling $112,326.47 in revenue.This is likely attributed to the holiday sales spike and end-of-year push experienced globally.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -77,18 +77,6 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 [Visualization specific to category 3]
 
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
