@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance:** Assess product sales and profit, focusing on year-over-year (YoY) growth
 - **Regional Sales:** Analysis of orders placed and popular products per region
 
-The SQL queries used for this analysis can be found here [link].
+The SQL queries used for this analysis can be found here [[link](https://github.com/ashivercoding/JumpstartSalesProject/blob/main/Jumpstart%20SQL%20Analysis.sql)].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [[link](https://public.tableau.com/views/JumpstartSalesDashboards/Revenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)].
 
