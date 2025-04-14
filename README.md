@@ -18,13 +18,10 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of one table: sales_dataset with a total row count of 9,994 records. A description of each table is as follows:
 
-[Entity Relationship Diagram here]
+<img src = "https://github.com/user-attachments/assets/aaf62d0a-86e2-429a-8f60-ea709ce8d764" width=200 />
+
 
 
 
@@ -32,9 +29,12 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Since 2020, Jumpstart has seen a steady increase in sales. Most key performance indicators have shown year-over-year increases. Revenue increased by 20.62% and Order Volume increased by 28.64%. On the other hand, Average Order Value (AOV) decreased by -6.24%. The following sections will provide further insights into the areas the company is excelling in and the areas that need further improvement. Below is the overview page from the interactive Tableau dashboard linked above.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+
+
+![image](https://github.com/user-attachments/assets/12811286-7fe1-4d56-a956-0bfc3c071cbc)
+
 
 
 
