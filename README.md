@@ -18,7 +18,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The company's main database structure as seen below consists of one table, sales_dataset, with a total row count of 9,994 records. A description of each table is as follows:
+The company's main database structure as seen below consists of one table, sales_dataset, with a total row count of 9,994 records. A description of the table is as follows:
 
 <img src = "https://github.com/user-attachments/assets/aaf62d0a-86e2-429a-8f60-ea709ce8d764" width=200 />
 
@@ -43,13 +43,15 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 * **Sales are typically above average in September, November, and December.** Sales hit an all-time peak in November 2023 with 447 orders totaling $112,326.47 in revenue. This is likely attributed to the holiday sales spike and end-of-year push that is experienced globally.
   
-* 
-  
-* **Main insight 3.** 
-  
-* **Main insight 4.** 
+* On average, September, November, and December account for approximately 43% of all orders placed each year. This corresponds with the spike in sales seen during those months. Alternatively, January and February only account for 6.7% of all orders.
 
-[Visualization specific to category 1]
+* March 2023 saw a 707% increase in profit compared to the previous month. This can be attributed to 5 purchases of the Alchemy software that made up 60% of the total profit for that month.
+  
+* January, April, and July consistently experience a reduction in profit compared to the previous month. 
+  
+
+![Jumpstart Monthly Trends](https://github.com/user-attachments/assets/ffc5c718-e398-413d-8ae1-ebbae21386df)
+
 
 
 ### Category 2:
