@@ -41,13 +41,13 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 # Insights Deep Dive
 ### Monthly Sales Trends:
 
-* **Sales are typically above average in September, November, and December.** Sales hit an all-time peak November 2023 with 447 orders totaling $112,326.47 in revenue.This is likely attributed to the holiday sales spike and end-of-year push experienced globally.
+* **Sales are typically above average in September, November, and December.** Sales hit an all-time peak in November 2023 with 447 orders totaling $112,326.47 in revenue. This is likely attributed to the holiday sales spike and end-of-year push that is experienced globally.
   
-* More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** 
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** 
 
 [Visualization specific to category 1]
 
