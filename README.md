@@ -5,7 +5,7 @@ The company has collected data on the orders placed, order revenue, and customer
 
 Insights and recommendations are provided on the following key areas:
 
-- **Revenue & Growth:** Overview historical sales trends with a focus on Revenue, Number of Orders, and Average Order Value
+- **Revenue & Growth:** Overview of historical sales trends with a focus on Revenue, Number of Orders, and Average Order Value
 - **Monthly Sales Trends:** An analysis of monthly sales trends
 - **Product Performance:** Assess product sales and profit, focusing on year-over-year (YoY) growth
 - **Regional Sales:** Analysis of orders placed and popular products per region
@@ -18,7 +18,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of one table, sales_dataset, with a total row count of 9,994 records. A description of each table is as follows:
+The company's main database structure as seen below consists of one table, sales_dataset, with a total row count of 9,994 records. A description of each table is as follows:
 
 <img src = "https://github.com/user-attachments/assets/aaf62d0a-86e2-429a-8f60-ea709ce8d764" width=200 />
 
