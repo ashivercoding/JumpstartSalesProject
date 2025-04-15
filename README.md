@@ -54,9 +54,9 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 
 
-### Category 2:
+### Product Performance:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* 4 products account for 57% of Jumpstart's revenue: Contact Matcher, FinanceHub, Site Analytics, and Marketing Suite - Gold. However, these products only account for 38% of the company's total profit. In 2023, they generated $408K in Revenue but only $29K in profit, 32% of the company's total.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
