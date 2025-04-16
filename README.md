@@ -43,7 +43,7 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 * **Sales are typically above average in September, November, and December.** Sales hit an all-time peak in November 2023 with 447 orders totaling $112,326.47 in revenue. This is likely attributed to the holiday sales spike and end-of-year push that is experienced globally.
   
-* On average, September, November, and December account for **approximately 43%** of all orders placed each year. This corresponds with the spike in sales seen during those months. Alternatively, January and February only account for 6.7% of all orders.
+* On average, September, November, and December account for **approximately 43%** of all orders placed each year. This corresponds with the spike in sales seen during those months. Alternatively, January and February only account for 7% of all orders.
 
 * March 2023 saw a 707% increase in profit compared to the previous month. This can be attributed to **5 purchases of the Alchemy software that made up 60%** of the total profit for that month.
   
@@ -85,7 +85,8 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 Based on the insights and findings above, the following is recommended to the Sales and Marketing teams:
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* With January and February only accounting for 7% of total orders, consider extending holiday discounts into the new year. Alternatively, bundling frequently purchased products together may help drive sales up during Q1, such as ContactMatcher and Support or ContactMatcher and SiteAnalytics.
+* Comprising 27% of the total profit for 2023, **Alchemy is a highly valued product in Jumpstart's portfolio**. Marketing should increase ads for Alchemy, especially in the United States and United Kingdom, where the software is already gaining traction.
   
 
   
