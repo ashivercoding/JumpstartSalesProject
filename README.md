@@ -86,7 +86,9 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 Based on the insights and findings above, the following is recommended to the Sales and Marketing teams:
 
 * With January and February only accounting for 7% of total orders, consider extending holiday discounts into the new year. Alternatively, bundling frequently purchased products together may help drive sales up during Q1, such as ContactMatcher and Support or ContactMatcher and SiteAnalytics.
-* Comprising 27% of the total profit for 2023, **Alchemy is a highly valued product in Jumpstart's portfolio**. Marketing should increase ads for Alchemy, especially in the United States and United Kingdom, where the software is already gaining traction.
+* Due to making up 27% of the total profit for 2023, **Alchemy is considered a highly valued product in Jumpstart's portfolio**. Marketing should increase ads for Alchemy, especially in the United States and United Kingdom, where the software is already gaining traction.
+* Sales teams should host webinars to promote ContactMatcher, Site Analytics, and FinanceHub to the Finance, Energy, and Tech industries. Marketing can also produce informational videos and focus on search engine optimization to further drive product sales.
+* Since Marketing Suite is consistently adding cost to the company, and has a much more successful advanced version (Marketing Suite - Gold), Jumpstart should consider discontinuing the product altogether. This should boost Marketing Suite - Gold sales further, especially if customers are given an incentive to switch. 
   
 
   
