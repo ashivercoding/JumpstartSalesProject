@@ -70,22 +70,20 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 ### Regional Sales:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The region of Europe, Middle East, and Africa (EMEA) accounts for 43% of all sales in 2023 and the Americas (AMER) accounts for 39%.** The combined revenue from both regions totaled at $734K, a 20% increase over 2022.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The **United States and United Kingdom** both have significantly higher sales than any other country 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 3]
+![image](https://github.com/user-attachments/assets/397385fa-3a6a-40da-b89b-18711bd3ab8d)
+
 
 
 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the [Sales and Marketing Teams] to consider the following: 
 
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
@@ -103,8 +101,4 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* row_id was assumed to be a unique indicator for each product purchased and was used to verify that there were no duplicate rows in the dataset.
