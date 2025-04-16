@@ -43,9 +43,9 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 * **Sales are typically above average in September, November, and December.** Sales hit an all-time peak in November 2023 with 447 orders totaling $112,326.47 in revenue. This is likely attributed to the holiday sales spike and end-of-year push that is experienced globally.
   
-* On average, September, November, and December account for approximately 43% of all orders placed each year. This corresponds with the spike in sales seen during those months. Alternatively, January and February only account for 6.7% of all orders.
+* On average, September, November, and December account for **approximately 43%** of all orders placed each year. This corresponds with the spike in sales seen during those months. Alternatively, January and February only account for 6.7% of all orders.
 
-* March 2023 saw a 707% increase in profit compared to the previous month. This can be attributed to 5 purchases of the Alchemy software that made up 60% of the total profit for that month.
+* March 2023 saw a 707% increase in profit compared to the previous month. This can be attributed to **5 purchases of the Alchemy software that made up 60%** of the total profit for that month.
   
 * January, April, and July consistently experience a reduction in profit compared to the previous month. 
   
@@ -56,18 +56,19 @@ Since 2020, Jumpstart has seen a steady increase in sales. Most key performance 
 
 ### Product Performance:
 
-* 4 products account for 57% of Jumpstart's revenue: Contact Matcher, FinanceHub, Site Analytics, and Marketing Suite - Gold. However, these products only account for 38% of the company's total profit. In 2023, they generated $408K in Revenue but only $29K in profit, 32% of the company's total.
+* **4 products account for 57% of Jumpstart's revenue:** Contact Matcher, FinanceHub, Site Analytics, and Marketing Suite - Gold. However, these products only account for 38% of the company's total profit. In 2023, they generated $408K in Revenue but only $29K in profit, 32% of the company's total.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Alchemy made up 27% of the overall profit for 2023, for a total of $25K stemming from only 22 orders. Profit generated from Alchemy has been trending upward year over year since 2020.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Marketing Suite is consistently costing the company money and only accounts for 3% of total orders. Similary, Storage, which only makes up 2% of orders placed, usually breaks even.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Finance, energy, and tech industries accounted for 48% of all orders placed in 2023, with a total revenue of $350K. ContactMatcher, Site Analytics, and Financehub were top performers for each industry.
 
-[Visualization specific to category 2]
+![image](https://github.com/user-attachments/assets/5f3930e0-57b7-49b6-9da4-ecfb17f7a4b7)
 
 
-### Category 3:
+
+### Regional Sales:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
